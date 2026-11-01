@@ -1,0 +1,522 @@
+[
+  {
+    "name": "ONLY",
+    "artist": "LEEHI",
+    "album": "4 ONLY",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02d5d11b6ac4242aaa41c8be69",
+    "id": "6TBJkXHPhu3EsMk1bshwuI",
+    "uri": "spotify:track:6TBJkXHPhu3EsMk1bshwuI",
+    "durationMs": 240906,
+    "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
+  },
+  {
+    "name": "love.",
+    "artist": "wave to earth",
+    "album": "0.1 flaws and all.",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
+    "id": "5mtTAScDytxMMqZj14NmlN",
+    "uri": "spotify:track:5mtTAScDytxMMqZj14NmlN",
+    "durationMs": 307750,
+    "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
+  },
+  {
+    "name": "Someday",
+    "artist": "The Ridleys",
+    "album": "All These and More",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02c1c8b2aa6366ec5a22298037",
+    "id": "1Qha6JOhv7VKIHzvn8I36I",
+    "uri": "spotify:track:1Qha6JOhv7VKIHzvn8I36I",
+    "durationMs": 363125,
+    "url": "https://open.spotify.com/track/1Qha6JOhv7VKIHzvn8I36I"
+  },
+  {
+    "name": "Milkyway",
+    "artist": "The Ridleys",
+    "album": "Until I Reach the Sun, Vol. 2",
+    "cover": "https://i.scdn.co/image/ab67616d00001e020b3f66ba10ac16396c982ec5",
+    "id": "0f272j8k2i6uak9kCuOLAr",
+    "uri": "spotify:track:0f272j8k2i6uak9kCuOLAr",
+    "durationMs": 237976,
+    "url": "https://open.spotify.com/track/0f272j8k2i6uak9kCuOLAr"
+  },
+  {
+    "name": "Ating Dalawa",
+    "artist": "Over October",
+    "album": "Ating Dalawa",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02e9adab4e1c13c4a5f924f5c0",
+    "id": "5KgkdXVLUdh1B00WQIwrF0",
+    "uri": "spotify:track:5KgkdXVLUdh1B00WQIwrF0",
+    "durationMs": 241674,
+    "url": "https://open.spotify.com/track/5KgkdXVLUdh1B00WQIwrF0"
+  },
+  {
+    "name": "Isang Daang Porsyento",
+    "artist": "Berto",
+    "album": "Isang Daang Porsyento",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02cf4ab39d34b454d49f5f9c45",
+    "id": "1UKfR2QVG2L3CIv26zmXNs",
+    "uri": "spotify:track:1UKfR2QVG2L3CIv26zmXNs",
+    "durationMs": 248955,
+    "url": "https://open.spotify.com/track/1UKfR2QVG2L3CIv26zmXNs"
+  },
+  {
+    "name": "Kalapastangan",
+    "artist": "fitterkarma",
+    "album": "Kalapastangan",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0201cb2e736602194466522135",
+    "id": "1udOOSbJnytCdgvbgYOF5s",
+    "uri": "spotify:track:1udOOSbJnytCdgvbgYOF5s",
+    "durationMs": 276000,
+    "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
+  },
+  {
+    "name": "Captivated",
+    "artist": "IV OF SPADES",
+    "album": "CLAPCLAPCLAP!",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02f66c8c68a9710d44745c7680",
+    "id": "0VAarGOiyV9qjA1bmOebED",
+    "uri": "spotify:track:0VAarGOiyV9qjA1bmOebED",
+    "durationMs": 220946,
+    "url": "https://open.spotify.com/track/0VAarGOiyV9qjA1bmOebED"
+  },
+  {
+    "name": "Meaningful Silence",
+    "artist": "The Ridleys",
+    "album": "Reflections on Moonlight & Poetry",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02867c49a47734da8324874d79",
+    "id": "5RTpULEeuDksIYMUImzqlu",
+    "uri": "spotify:track:5RTpULEeuDksIYMUImzqlu",
+    "durationMs": 306255,
+    "url": "https://open.spotify.com/track/5RTpULEeuDksIYMUImzqlu"
+  },
+  {
+    "name": "Aphrodite",
+    "artist": "The Ridleys",
+    "album": "Reflections on Moonlight & Poetry",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02867c49a47734da8324874d79",
+    "id": "5pek4R29HVwMaWgzpV64f3",
+    "uri": "spotify:track:5pek4R29HVwMaWgzpV64f3",
+    "durationMs": 237058,
+    "url": "https://open.spotify.com/track/5pek4R29HVwMaWgzpV64f3"
+  },
+  {
+    "name": "Germany & Rome",
+    "artist": "The Ridleys",
+    "album": "Reflections on Moonlight & Poetry",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02867c49a47734da8324874d79",
+    "id": "15Xljpp1dkkhlyX1MQhECP",
+    "uri": "spotify:track:15Xljpp1dkkhlyX1MQhECP",
+    "durationMs": 282180,
+    "url": "https://open.spotify.com/track/15Xljpp1dkkhlyX1MQhECP"
+  },
+  {
+    "name": "Euphoria",
+    "artist": "The Ridleys",
+    "album": "All These and More",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02c1c8b2aa6366ec5a22298037",
+    "id": "1qhQPs3p5DUU7NmXNoFD52",
+    "uri": "spotify:track:1qhQPs3p5DUU7NmXNoFD52",
+    "durationMs": 209166,
+    "url": "https://open.spotify.com/track/1qhQPs3p5DUU7NmXNoFD52"
+  },
+  {
+    "name": "Love Is",
+    "artist": "The Ridleys",
+    "album": "All These and More",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02c1c8b2aa6366ec5a22298037",
+    "id": "4FmeVH5lIipcrOiEdv1Hd2",
+    "uri": "spotify:track:4FmeVH5lIipcrOiEdv1Hd2",
+    "durationMs": 232409,
+    "url": "https://open.spotify.com/track/4FmeVH5lIipcrOiEdv1Hd2"
+  },
+  {
+    "name": "Oh, Irog",
+    "artist": "12th Street",
+    "album": "Oh, Irog",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02b5545dae6632e3b0196d75fa",
+    "id": "5YJvGgkhx20VYT64YgRZm2",
+    "uri": "spotify:track:5YJvGgkhx20VYT64YgRZm2",
+    "durationMs": 296714,
+    "url": "https://open.spotify.com/track/5YJvGgkhx20VYT64YgRZm2"
+  },
+  {
+    "name": "Mas Gusto Kita",
+    "artist": "Yden",
+    "album": "Mas Gusto Kita",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02c4ffbd19f695a72438be4b87",
+    "id": "0Fz4n1CHMWRoJOViHFKCXV",
+    "uri": "spotify:track:0Fz4n1CHMWRoJOViHFKCXV",
+    "durationMs": 202641,
+    "url": "https://open.spotify.com/track/0Fz4n1CHMWRoJOViHFKCXV"
+  },
+  {
+    "name": "Ikaw Lang Patutunguhan",
+    "artist": "Amiel Sol",
+    "album": "Ikaw Lang Patutunguhan",
+    "cover": "https://i.scdn.co/image/ab67616d00001e027be15ee0efb3b1beccca530d",
+    "id": "7rpQzmMwS1yW1f0oWxBS9z",
+    "uri": "spotify:track:7rpQzmMwS1yW1f0oWxBS9z",
+    "durationMs": 326896,
+    "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+  },
+  {
+    "name": "Be With You",
+    "artist": "The Ridleys",
+    "album": "All These and More",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02c1c8b2aa6366ec5a22298037",
+    "id": "4179FSxWNhqupr6nRwJYkm",
+    "uri": "spotify:track:4179FSxWNhqupr6nRwJYkm",
+    "durationMs": 241363,
+    "url": "https://open.spotify.com/track/4179FSxWNhqupr6nRwJYkm"
+  },
+  {
+    "name": "Malumanay",
+    "artist": "Tatin DC",
+    "album": "Malumanay",
+    "cover": "https://i.scdn.co/image/ab67616d00001e023323f3181032f8c6cc69077b",
+    "id": "48ZbwHX2QkhwlIUrQwJTyc",
+    "uri": "spotify:track:48ZbwHX2QkhwlIUrQwJTyc",
+    "durationMs": 251581,
+    "url": "https://open.spotify.com/track/48ZbwHX2QkhwlIUrQwJTyc"
+  },
+  {
+    "name": "Hiwaga",
+    "artist": "Tatin DC",
+    "album": "Hiwaga",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02472f1b69506d4ffd48c3f30f",
+    "id": "1dWZwFAgsCwu0WmjtdEtno",
+    "uri": "spotify:track:1dWZwFAgsCwu0WmjtdEtno",
+    "durationMs": 233640,
+    "url": "https://open.spotify.com/track/1dWZwFAgsCwu0WmjtdEtno"
+  },
+  {
+    "name": "Pahingi Ako Ng Kiss",
+    "artist": "Frank Ely",
+    "album": "Pahingi Ako Ng Kiss",
+    "cover": "https://i.scdn.co/image/ab67616d00001e025595f3c791d46caa1bf17d52",
+    "id": "0Ry7SX1UERpxkf2T0bQ3Rx",
+    "uri": "spotify:track:0Ry7SX1UERpxkf2T0bQ3Rx",
+    "durationMs": 220375,
+    "url": "https://open.spotify.com/track/0Ry7SX1UERpxkf2T0bQ3Rx"
+  },
+  {
+    "name": "Running Out of Songs",
+    "artist": "The Ridleys",
+    "album": "All These and More",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02c1c8b2aa6366ec5a22298037",
+    "id": "3emeJK0oQQnUo6jNMMstUX",
+    "uri": "spotify:track:3emeJK0oQQnUo6jNMMstUX",
+    "durationMs": 270000,
+    "url": "https://open.spotify.com/track/3emeJK0oQQnUo6jNMMstUX"
+  },
+  {
+    "name": "Di Ako Marunong Sumayaw",
+    "artist": "Carl Timbol",
+    "album": "Di Ako Marunong Sumayaw",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0269fe1aadfd77a8545ea320d0",
+    "id": "4SanVWIiQ7EgF9ZibSqDr8",
+    "uri": "spotify:track:4SanVWIiQ7EgF9ZibSqDr8",
+    "durationMs": 252000,
+    "url": "https://open.spotify.com/track/4SanVWIiQ7EgF9ZibSqDr8"
+  },
+  {
+    "name": "Pramiss",
+    "artist": "Project: Romeo",
+    "album": "Pramiss",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02aadfea501e547e7b402eca43",
+    "id": "2gXSqSRgM98Zf8JC6TV1uV",
+    "uri": "spotify:track:2gXSqSRgM98Zf8JC6TV1uV",
+    "durationMs": 144571,
+    "url": "https://open.spotify.com/track/2gXSqSRgM98Zf8JC6TV1uV"
+  },
+  {
+    "name": "Nahanap Kita",
+    "artist": "Amiel Sol",
+    "album": "Nahanap Kita",
+    "cover": "https://i.scdn.co/image/ab67616d00001e026322cb30a2798b89ad333e53",
+    "id": "0GD9U8EM8xcPvuaA50Wzpe",
+    "uri": "spotify:track:0GD9U8EM8xcPvuaA50Wzpe",
+    "durationMs": 317693,
+    "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
+  },
+  {
+    "name": "Lulay",
+    "artist": "Nowan.",
+    "album": "Lulay",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02a09fee6fb7f0d1240903862b",
+    "id": "6IVoV10fauImZHBVmc4vAF",
+    "uri": "spotify:track:6IVoV10fauImZHBVmc4vAF",
+    "durationMs": 192000,
+    "url": "https://open.spotify.com/track/6IVoV10fauImZHBVmc4vAF"
+  },
+  {
+    "name": "Tsunami",
+    "artist": "NIKI",
+    "album": "Buzz",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02af28c3161d272af6c015131c",
+    "id": "7fZ9GpxwteD6R1SNL8OPZa",
+    "uri": "spotify:track:7fZ9GpxwteD6R1SNL8OPZa",
+    "durationMs": 231173,
+    "url": "https://open.spotify.com/track/7fZ9GpxwteD6R1SNL8OPZa"
+  },
+  {
+    "name": "you!",
+    "artist": "LANY",
+    "album": "mama's boy (deluxe)",
+    "cover": "https://i.scdn.co/image/ab67616d00001e028f870c0a0f3908c1ed46bb83",
+    "id": "2VMhO32IsyhshnUoKhjCBE",
+    "uri": "spotify:track:2VMhO32IsyhshnUoKhjCBE",
+    "durationMs": 274013,
+    "url": "https://open.spotify.com/track/2VMhO32IsyhshnUoKhjCBE"
+  },
+  {
+    "name": "Best Part (feat. H.E.R.)",
+    "artist": "Daniel Caesar, H.E.R.",
+    "album": "Freudian",
+    "cover": "https://i.scdn.co/image/ab67616d00001e023138f891f3075c9c5d944037",
+    "id": "1RMJOxR6GRPsBHL8qeC2ux",
+    "uri": "spotify:track:1RMJOxR6GRPsBHL8qeC2ux",
+    "durationMs": 209831,
+    "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+  },
+  {
+    "name": "Lalim",
+    "artist": "MATÉO",
+    "album": "Lalim",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02910f856aeb3ff2514bcc6a1a",
+    "id": "6dvP7J9alzF4OWMIlmrpTd",
+    "uri": "spotify:track:6dvP7J9alzF4OWMIlmrpTd",
+    "durationMs": 199903,
+    "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
+  },
+  {
+    "name": "Summertown",
+    "artist": "The Ridleys",
+    "album": "Until I Reach the Sun, Vol. 1",
+    "cover": "https://i.scdn.co/image/ab67616d00001e023c7a8179266576a3b460ceab",
+    "id": "1Ug2ZzO4az3m4zImIYGuKL",
+    "uri": "spotify:track:1Ug2ZzO4az3m4zImIYGuKL",
+    "durationMs": 324585,
+    "url": "https://open.spotify.com/track/1Ug2ZzO4az3m4zImIYGuKL"
+  },
+  {
+    "name": "KYGM",
+    "artist": "The Ridleys",
+    "album": "Until I Reach the Sun, Vol. 1",
+    "cover": "https://i.scdn.co/image/ab67616d00001e023c7a8179266576a3b460ceab",
+    "id": "1Xm1O8B218Xk8GzUjB5N9k",
+    "uri": "spotify:track:1Xm1O8B218Xk8GzUjB5N9k",
+    "durationMs": 234120,
+    "url": "https://open.spotify.com/track/1Xm1O8B218Xk8GzUjB5N9k"
+  },
+  {
+    "name": "Troubadour",
+    "artist": "The Ridleys",
+    "album": "All These and More",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02c1c8b2aa6366ec5a22298037",
+    "id": "4yG2Z87x19XfL6P3Y6ZqNl",
+    "uri": "spotify:track:4yG2Z87x19XfL6P3Y6ZqNl",
+    "durationMs": 248000,
+    "url": "https://open.spotify.com/track/4yG2Z87x19XfL6P3Y6ZqNl"
+  },
+  {
+    "name": "Maybe",
+    "artist": "The Ridleys",
+    "album": "All These and More",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02c1c8b2aa6366ec5a22298037",
+    "id": "5gN1pB3uR3Q9Z2yK0lZ8uA",
+    "uri": "spotify:track:5gN1pB3uR3Q9Z2yK0lZ8uA",
+    "durationMs": 252100,
+    "url": "https://open.spotify.com/track/5gN1pB3uR3Q9Z2yK0lZ8uA"
+  },
+  {
+    "name": "Intertwine",
+    "artist": "Over October",
+    "album": "Rhythms & Words",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02e9adab4e1c13c4a5f924f5c0",
+    "id": "2Z9VjC8R3Q8gY5WqR6Tz5B",
+    "uri": "spotify:track:2Z9VjC8R3Q8gY5WqR6Tz5B",
+    "durationMs": 236400,
+    "url": "https://open.spotify.com/track/2Z9VjC8R3Q8gY5WqR6Tz5B"
+  },
+  {
+    "name": "Kaakit-akit",
+    "artist": "Over October",
+    "album": "Kaakit-akit",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02e9adab4e1c13c4a5f924f5c0",
+    "id": "6K7e1M4yF8hQ1yP5x9WqZ7",
+    "uri": "spotify:track:6K7e1M4yF8hQ1yP5x9WqZ7",
+    "durationMs": 242000,
+    "url": "https://open.spotify.com/track/6K7e1M4yF8hQ1yP5x9WqZ7"
+  },
+  {
+    "name": "Sandali Lang",
+    "artist": "Over October",
+    "album": "Sandali Lang",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02e9adab4e1c13c4a5f924f5c0",
+    "id": "3A8h5Q1pB7kZ2yK0lZ8uA1",
+    "uri": "spotify:track:3A8h5Q1pB7kZ2yK0lZ8uA1",
+    "durationMs": 255000,
+    "url": "https://open.spotify.com/track/3A8h5Q1pB7kZ2yK0lZ8uA1"
+  },
+  {
+    "name": "bad",
+    "artist": "wave to earth",
+    "album": "0.1 flaws and all.",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
+    "id": "4G6wz8qVj6R7tL1zP4uB8q",
+    "uri": "spotify:track:4G6wz8qVj6R7tL1zP4uB8q",
+    "durationMs": 263150,
+    "url": "https://open.spotify.com/track/4G6wz8qVj6R7tL1zP4uB8q"
+  },
+  {
+    "name": "seasons",
+    "artist": "wave to earth",
+    "album": "summer flows 0.02",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
+    "id": "5Y3o2P8uB6mK7tL1zP4uB8",
+    "uri": "spotify:track:5Y3o2P8uB6mK7tL1zP4uB8",
+    "durationMs": 256000,
+    "url": "https://open.spotify.com/track/5Y3o2P8uB6mK7tL1zP4uB8"
+  },
+  {
+    "name": "sunny days",
+    "artist": "wave to earth",
+    "album": "0.1 flaws and all.",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0224f8c3ad20b7c6cfecb5832e",
+    "id": "2M1b8K4zP6hQ1yP5x9WqZ7",
+    "uri": "spotify:track:2M1b8K4zP6hQ1yP5x9WqZ7",
+    "durationMs": 218000,
+    "url": "https://open.spotify.com/track/2M1b8K4zP6hQ1yP5x9WqZ7"
+  },
+  {
+    "name": "Come Inside Of My Heart",
+    "artist": "IV OF SPADES",
+    "album": "CLAPCLAPCLAP!",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02f66c8c68a9710d44745c7680",
+    "id": "45e1B0F2H375O6Z6L0c1B4",
+    "uri": "spotify:track:45e1B0F2H375O6Z6L0c1B4",
+    "durationMs": 246500,
+    "url": "https://open.spotify.com/track/45e1B0F2H375O6Z6L0c1B4"
+  },
+  {
+    "name": "Mundo",
+    "artist": "IV OF SPADES",
+    "album": "Mundo",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02f66c8c68a9710d44745c7680",
+    "id": "6Bcv517t0PZt5U8HkK7o9a",
+    "uri": "spotify:track:6Bcv517t0PZt5U8HkK7o9a",
+    "durationMs": 349000,
+    "url": "https://open.spotify.com/track/6Bcv517t0PZt5U8HkK7o9a"
+  },
+  {
+    "name": "Dulo Ng Hangganan",
+    "artist": "IV OF SPADES",
+    "album": "CLAPCLAPCLAP!",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02f66c8c68a9710d44745c7680",
+    "id": "3Z8k1P9uB7mK7tL1zP4uB8",
+    "uri": "spotify:track:3Z8k1P9uB7mK7tL1zP4uB8",
+    "durationMs": 328000,
+    "url": "https://open.spotify.com/track/3Z8k1P9uB7mK7tL1zP4uB8"
+  },
+  {
+    "name": "Pasilyo",
+    "artist": "SunKissed Lola",
+    "album": "Pasilyo",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02a09fee6fb7f0d1240903862b",
+    "id": "6rqhFgbbKwnb9MLmUQDhG6",
+    "uri": "spotify:track:6rqhFgbbKwnb9MLmUQDhG6",
+    "durationMs": 270275,
+    "url": "https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6"
+  },
+  {
+    "name": "Sining",
+    "artist": "Dionela, Jay R",
+    "album": "Sining",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0269fe1aadfd77a8545ea320d0",
+    "id": "4p55Lp3Z6J9wW2yK0lZ8uA",
+    "uri": "spotify:track:4p55Lp3Z6J9wW2yK0lZ8uA",
+    "durationMs": 234000,
+    "url": "https://open.spotify.com/track/4p55Lp3Z6J9wW2yK0lZ8uA"
+  },
+  {
+    "name": "Bahaghari",
+    "artist": "Dionela",
+    "album": "Bahaghari",
+    "cover": "https://i.scdn.co/image/ab67616d00001e0269fe1aadfd77a8545ea320d0",
+    "id": "1V7h5Q1pB7kZ2yK0lZ8uA1",
+    "uri": "spotify:track:1V7h5Q1pB7kZ2yK0lZ8uA1",
+    "durationMs": 218000,
+    "url": "https://open.spotify.com/track/1V7h5Q1pB7kZ2yK0lZ8uA1"
+  },
+  {
+    "name": "Tingin",
+    "artist": "Cup of Joe, Janine Teñoso",
+    "album": "Tingin",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02aadfea501e547e7b402eca43",
+    "id": "0D8j1P9uB7mK7tL1zP4uB8",
+    "uri": "spotify:track:0D8j1P9uB7mK7tL1zP4uB8",
+    "durationMs": 238000,
+    "url": "https://open.spotify.com/track/0D8j1P9uB7mK7tL1zP4uB8"
+  },
+  {
+    "name": "Multo",
+    "artist": "Cup of Joe",
+    "album": "Multo",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02aadfea501e547e7b402eca43",
+    "id": "2K8h5Q1pB7kZ2yK0lZ8uA1",
+    "uri": "spotify:track:2K8h5Q1pB7kZ2yK0lZ8uA1",
+    "durationMs": 242000,
+    "url": "https://open.spotify.com/track/2K8h5Q1pB7kZ2yK0lZ8uA1"
+  },
+  {
+    "name": "Tataya",
+    "artist": "Cup of Joe",
+    "album": "Tataya",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02aadfea501e547e7b402eca43",
+    "id": "5Y8h5Q1pB7kZ2yK0lZ8uA1",
+    "uri": "spotify:track:5Y8h5Q1pB7kZ2yK0lZ8uA1",
+    "durationMs": 250000,
+    "url": "https://open.spotify.com/track/5Y8h5Q1pB7kZ2yK0lZ8uA1"
+  },
+  {
+    "name": "Bawat Piyesa",
+    "artist": "Munimuni",
+    "album": "Kulayan Natin",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02867c49a47734da8324874d79",
+    "id": "4L1b8K4zP6hQ1yP5x9WqZ7",
+    "uri": "spotify:track:4L1b8K4zP6hQ1yP5x9WqZ7",
+    "durationMs": 372000,
+    "url": "https://open.spotify.com/track/4L1b8K4zP6hQ1yP5x9WqZ7"
+  },
+  {
+    "name": "Dilaw",
+    "artist": "Maki",
+    "album": "Dilaw",
+    "cover": "https://i.scdn.co/image/ab67616d00001e02cf4ab39d34b454d49f5f9c45",
+    "id": "3U7k1P9uB7mK7tL1zP4uB8",
+    "uri": "spotify:track:3U7k1P9uB7mK7tL1zP4uB8",
+    "durationMs": 194000,
+    "url": "https://open.spotify.com/track/3U7k1P9uB7mK7tL1zP4uB8"
+  },
+  {
+    "name": "Palagi",
+    "artist": "TJ Monterde",
+    "album": "Palagi",
+    "cover": "https://i.scdn.co/image/ab67616d00001e027be15ee0efb3b1beccca530d",
+    "id": "1P9uB7mK7tL1zP4uB8kZ2y",
+    "uri": "spotify:track:1P9uB7mK7tL1zP4uB8kZ2y",
+    "durationMs": 246000,
+    "url": "https://open.spotify.com/track/1P9uB7mK7tL1zP4uB8kZ2y"
+  },
+  {
+    "name": "Until I Found You",
+    "artist": "Stephen Sanchez",
+    "album": "Easy on My Eyes",
+    "cover": "https://i.scdn.co/image/ab67616d00001e023138f891f3075c9c5d944037",
+    "id": "0T5iIrXA4p5GsubkhuYng5",
+    "uri": "spotify:track:0T5iIrXA4p5GsubkhuYng5",
+    "durationMs": 177720,
+    "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuYng5"
+  }
+]

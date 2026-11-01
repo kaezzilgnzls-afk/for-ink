@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">for ink</string>
+    <string name="title_activity_main">for ink</string>
+    <string name="package_name">com.forink.app</string>
+    <string name="custom_url_scheme">com.forink.app</string>
+</resources>

@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+:root {
+  --color-sage-50: #F4F7F4;
+  --color-sage-100: #E6ECE6;
+  --color-sage-200: #D0DDD1;
+  --color-sage-600: #46684F;
+  --color-sage-800: #263B2D;
+  --color-pink-50: #FFF5F7;
+  --color-pink-100: #FFE6EB;
+  --color-pink-300: #F7ADC0;
+  --color-pink-500: #E26887;
+  --color-pink-700: #A6304C;
+  --color-cream: #FAF7F2;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  background-color: #FAF7F2;
+  color: #1F2E24;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-serif {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-sans {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+/* Botanical parchment texture styling */
+.parchment-card {
+  background: radial-gradient(circle at 10% 20%, rgba(255, 255, 255, 0.95), rgba(250, 247, 242, 0.92));
+  box-shadow: 0 10px 30px -10px rgba(70, 104, 79, 0.08), 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.letter-stationery {
+  background: #FCFAF6;
+  background-image: 
+    radial-gradient(#E8E0D5 0.75px, transparent 0.75px),
+    radial-gradient(#E8E0D5 0.75px, #FCFAF6 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+
+/* Custom delicate scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F4F7F4;
+}
+::-webkit-scrollbar-thumb {
+  background: #D0DDD1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #A6BBA8;
+}
+
+@keyframes floatGentle {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-6px) rotate(1deg); }
+}
+
+.animate-float {
+  animation: floatGentle 6s ease-in-out infinite;
+}
