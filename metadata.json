@@ -1,0 +1,8 @@
+{
+  "name": " for ink",
+  "description": "for ink",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
